@@ -8,11 +8,21 @@ The T-TWR Plus has some unique features that made this case desirable. Since LIL
 
 ## Printing Steps
 
-Print one of each of the files in the stl directory, except for the spacers.. print two.
+Print the following (from the stl directory of this repository):
+1. LILYGO-T-TWR-Plus-case-bottom.stl*
+2. LILYGO-T-TWR-Plus-case-top.stl*
+3. LILYGO-T-TWR-Plus-case-buttons_lg.stl
+4. LILYGO-T-TWR-Plus-case-buttons_sm.stl
+5. 2x Spacer_8_5mm.stl (Only if not using the Pogostick)
+
+\* Pogostick USB port is not exposed in these files.
+
 The spacers are to hold the space for the missing PogoStick board, which will be available to program the T-TWR Plus.
 
 Note: The tolerances are fairly tight, so make sure you are using 0.2 mm layer height with high quality settings.
-Tested on Prusa i3 MK3S
+
+Testing so far:
+* Prusa i3 MK3S with PLA, 100% infill
 
 ## Assembly Steps
 
