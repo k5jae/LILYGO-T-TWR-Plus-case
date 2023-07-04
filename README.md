@@ -10,6 +10,25 @@ The spacers are to hold the space for the missing PogoStick board, which will be
 Note: The tolerances are fairly tight, so make sure you are using 0.2 mm layer height with high quality settings.
 Tested on Prusa i3 MK3S
 
+## Assembly Steps
+
+### Prepare the T-TWR Plus
+Prepare the T-TWR Plus for assembly by removing the two screws holding the display shell and drilling all of the holes with a 1/8" drill bit. This is due to the board using M2.5 screws, and the case is defined as using M3 screws. M3 nylon screws are more secure than M2.5. The drilling steps are easy if you take your time. Normally using a sharp drill bit in reverse is gentle enough to cause no damage.
+
+For the lower holes, drill to the halfway point and flip the board over to finish (this keeps it nice and clean)
+For the upper holes (with the display shell), use start at the back (PCB on top) and drill in reverse until through PCB and then switch to forward direction through the acrylic. Fast speed, low pressure
+
+### Assembly
+The button pairs are different lengths. This is due to the placement of the buttons on the LILYGO T-TWR Plus PCB. 
+1. The shorter length are the two closest to the sma connector.
+2. The longer length are the two closest to the wheel button.
+
+The spacers are to be used when the Pogostick programming board is not installed. The spacers go between the top case and the PCB next to the Wifi/BT module. When installing the Pogostick board, install with USB port down (ie all components underneath). Also ensure that the STL file you are printing has the USB port exposed.
+
+The screws are defined as Nylon M3, with a length of TBD. The upper screws should go through the display shell, T-TWR Plus PCB, and bottom case. The lower screws should go all the way through the top case, Pogostick (or spacers), T-TWR Plus PCB, bottom case. The bottom case has a counter bore for a nylon hex nut.
+
+## Views
+
 |<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_left.png" width="300">|
 <img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_right.png" width="300">|
 
