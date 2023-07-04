@@ -6,6 +6,8 @@ License: GPLv2
 
 The T-TWR Plus has some unique features that made this case desirable. Since LILYGO has released the OpenEdition, we now have a unique M17 capable device. For more information go to M17 (https://m17project.org) and OpenRTX (https://openrtx.org). This case was designed in support of those projects.
 
+Note: There is currently no battery cover which is still TBD.
+
 ## Printing Steps
 
 Print the following (from the stl directory of this repository):
