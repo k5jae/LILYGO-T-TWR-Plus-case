@@ -45,6 +45,8 @@ The screws are defined as Nylon M3, with a length of TBD. The upper screws shoul
 
 ## Views
 
+<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/real_top.png" width="700">
+
 |<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_left.png" width="300">|
 <img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_right.png" width="300">|
 
