@@ -43,7 +43,7 @@ The button pairs are different lengths. This is due to the placement of the butt
 
 The spacers are to be used when the Pogostick programming board is not installed. The spacers go between the top case and the PCB next to the Wifi/BT module. When installing the Pogostick board, install with USB port down (ie all components underneath). Also ensure that the STL file you are printing has the USB port exposed.
 
-The screws are defined as Nylon M3, with a length of TBD. The upper screws should go through the display shell, T-TWR Plus PCB, and bottom case. The lower screws should go all the way through the top case, Pogostick (or spacers), T-TWR Plus PCB, bottom case. The bottom case has a counter bore for a nylon hex nut.
+The screws are defined as Nylon M3, with a minimum length of 25 mm. The upper screws should go through the display shell, T-TWR Plus PCB, and bottom case. The lower screws should go all the way through the top case, Pogostick (or spacers), T-TWR Plus PCB, bottom case. The bottom case has a counter bore for a nylon hex nut.
 
 ## Views
 
