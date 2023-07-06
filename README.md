@@ -17,14 +17,16 @@ Print the following (from the stl directory of this repository):
 4. LILYGO-T-TWR-Plus-case-buttons_sm.stl
 5. 2x Spacer_8_5mm.stl (Only if not using the Pogostick)
 
-\* Pogostick USB port is not exposed in these files.
+\* Pogostick USB port is not exposed in these files use the following instead:
+* LILYGO-T-TWR-Plus-case-bottom_pogostick.stl
+* LILYGO-T-TWR-Plus-case-top_pogostick.stl
 
 The spacers are to hold the space for the missing PogoStick board, which will be available to program the T-TWR Plus.
 
 Note: The tolerances are fairly tight, so make sure you are using 0.2 mm layer height with high quality settings.
 
 Testing so far:
-* Prusa i3 MK3S with PLA, 100% infill
+* Prusa i3 MK3S with PLA and PETG, 100% infill, (supports only for counterbores which pop out with a small screwdriver)
 
 ## Assembly Steps
 
