@@ -13,9 +13,8 @@ Note: The audio speaker is behind the display shell and audio quality and levels
 Print the following (from the stl directory of this repository):
 1. LILYGO-T-TWR-Plus-case-bottom.stl*
 2. LILYGO-T-TWR-Plus-case-top.stl*
-3. LILYGO-T-TWR-Plus-case-buttons_lg.stl
-4. LILYGO-T-TWR-Plus-case-buttons_sm.stl
-5. 2x Spacer_8_5mm.stl (Only if not using the Pogostick)
+3. LILYGO-T-TWR-Plus-case-buttons.stl
+4. 2x Spacer_8_5mm.stl (Only if not using the Pogostick)
 
 \* Pogostick USB port is not exposed in these files use the following instead:
 * LILYGO-T-TWR-Plus-case-bottom_pogostick.stl
@@ -37,9 +36,6 @@ For the lower holes, drill to the halfway point and flip the board over to finis
 For the upper holes (with the display shell), use start at the back (PCB on top) and drill in reverse until through PCB and then switch to forward direction through the acrylic. Fast speed, low pressure
 
 ### Assembly
-The button pairs are different lengths. This is due to the placement of the buttons on the LILYGO T-TWR Plus PCB. 
-1. The shorter length are the two closest to the sma connector.
-2. The longer length are the two closest to the wheel button.
 
 The spacers are to be used when the Pogostick programming board is not installed. The spacers go between the top case and the PCB next to the Wifi/BT module. When installing the Pogostick board, install with USB port down (ie all components underneath). Also ensure that the STL file you are printing has the USB port exposed.
 
@@ -47,9 +43,10 @@ The screws are defined as Nylon M3, with a minimum length of 25 mm. The upper sc
 
 ## Views
 
-<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/real_top.png" width="400">
+<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/real_top.jpg" width="400">
 
 |<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_left.png" width="300">|
 <img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_right.png" width="300">|
 
-<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/rear_right.png" width="300">
+<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/rear_right.jpg" width="300">
+
