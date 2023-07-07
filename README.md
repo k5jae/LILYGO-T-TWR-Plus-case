@@ -48,5 +48,6 @@ The screws are defined as Nylon M3, with a minimum length of 25 mm. The upper sc
 |<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_left.png" width="300">|
 <img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/front_right.png" width="300">|
 
-<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/rear_right.jpg" width="300">
+|<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/rear_left.png" width="300">|
+<img src="https://github.com/k5jae/LILYGO-T-TWR-Plus-case/blob/main/views/rear_right.png" width="300">|
 
