@@ -20,12 +20,13 @@ Print the following (from the stl directory of this repository):
 * LILYGO-T-TWR-Plus-case-bottom_pogostick.stl
 * LILYGO-T-TWR-Plus-case-top_pogostick.stl
 
-The spacers are to hold the space for the missing PogoStick board, which will be available to program the T-TWR Plus.
+The spacers are to hold the space for the missing PogoStick board, which will be available to program the T-TWR Plus. There have been good results using supports for counterbores which pop out with a small screwdriver.
 
 Note: The tolerances are fairly tight, so make sure you are using 0.2 mm layer height with high quality settings.
 
 Testing so far:
-* Prusa i3 MK3S with PLA and PETG, 100% infill, (supports only for counterbores which pop out with a small screwdriver)
+* Prusa i3 MK3S with PLA and PETG, 100% infill
+* Creality CR-6 SE with PLA
 
 ## Assembly Steps
 
